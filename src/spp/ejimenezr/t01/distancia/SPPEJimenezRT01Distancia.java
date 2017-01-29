@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author elver
  */
 public class SPPEJimenezRT01Distancia {
-
+// Elver Iram Jiménez Rodríguez. A01196327. IME
     /**
      * @param args the command line arguments
      */
